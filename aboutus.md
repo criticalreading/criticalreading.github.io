@@ -1,14 +1,16 @@
 ---
 layout: page
 title: ABOUT US
-subtitle: A little story 
+subtitle: A Little Story 
 ---
-We are two close friends who enjoy theory. 
 
 ### About Elliott
-Elliott gives library instruction workshops in the humanities for college and local high school students and teaches the Digital Humanities certificate courses. He also runs the Digital Humanities reading groups through the libraries, and co-runs the Education and Labor reading group for the Educational Theory and Practice Department, in the UGA College of Education.
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
+Elliott considers himself fortunate enough to be a member in one of the longest-running critical theory reading groups. Born in 1994 at the University of Florida, the Marxist
+Reading Group is still going and has hosted a successful annual conference for years. This reading group has been integral to the ongoing influence of Marxism at the University of Florida English department. He has many years of experience running successful reading groups, including Critical Digital Humanities Working Group for the past two years here at UGA.
 
 ### About Hamed
-[Hamed](http://cobweb.cs.uga.edu/~hamed/) is getting his PhD in Computer Science at University of Georgia.
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+[Hamed](http://cobweb.cs.uga.edu/~hamed/) is getting his PhD in Computer Science at University of Georgia. He finds writing about himself in third-person a little weird! 
 

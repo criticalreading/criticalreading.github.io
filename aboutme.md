@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: ABOUT US
+subtitle: A little story 
 ---
+We are two close friends who enjoy theory. 
 
-My name is Inigo Montoya. I have the following qualities:
+### About Elliott
+Elliott gives library instruction workshops in the humanities for college and local high school students and teaches the Digital Humanities certificate courses. He also runs the Digital Humanities reading groups through the libraries, and co-runs the Education and Labor reading group for the Educational Theory and Practice Department, in the UGA College of Education.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### About Hamed
+[Hamed](http://cobweb.cs.uga.edu/~hamed/) is getting his PhD in Computer Science at University of Georgia.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

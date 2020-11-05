@@ -16,9 +16,8 @@ author: Hamed Yaghoobian
 navbar-links:
   About Us: "aboutus"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Digital Humanities Group at UGA: "https://digi.uga.edu/"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 

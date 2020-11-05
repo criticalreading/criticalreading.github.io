@@ -1,7 +1,7 @@
 ---
 layout: page
-subtitle: About Us
-subsubtitle: A Little Story
+title: About Us
+subtitle: A Little Story
 ---
 
 ### About Elliott

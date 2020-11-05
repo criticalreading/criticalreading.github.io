@@ -6,7 +6,7 @@ comments: false
 ## Details
 **Meetings**: Twice monthly\
 **Reading**: Decided collectively\
-**Reading Level**: Advanced existing knowledge of Critical Theory\
+**Reading Level**: Advanced existing knowledge of Critical Theory
 
 
 ## Spring 2021 Schedule
@@ -14,7 +14,7 @@ comments: false
 **February**: Hayden White\
 **March**: Hannah Arendt\
 **April**: Theodor Adorno\
-**May**: Susan Sontag\
+**May**: Susan Sontag
 
 
 

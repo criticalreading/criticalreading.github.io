@@ -2,7 +2,7 @@
 layout: page
 title: UGA Critical Reading Group 
 subtitle: Deep Engagement with Foundational Theory
-bigimg: assets/img/destruct.jpg
+bigimg: /assets/img/destruct.jpg
 
 ---
 > "Nothing but a newspaper can drop the same thought into a thousand minds at the same moment..."  

@@ -15,6 +15,8 @@ author: Elliott & Hamed
 
 navbar-links:
   About Us: "aboutus"
+  Readings: 
+    - Spring 2021: "spring2021"
   Resources:
     - Digital Humanities Group at UGA: "https://digi.uga.edu/"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -40,7 +42,7 @@ round-avatar: true
 social-network-links:
   email: "hy@uga.edu"
 #   facebook: deanattali
-  github: citicalreading
+#  github: citicalreading
 #   twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali

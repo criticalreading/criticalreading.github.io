@@ -8,4 +8,6 @@ subtitle: Readings and Other Materials
 
 **January**: Hannah Arendt's Thinking Without a Banister, Introduction & Ch. 1: Karl Marx and the Tradition of Western Political Thought
 
+<p align="center">
 <img src="/assets/img/banister.jpg" height="750px">
+</p>

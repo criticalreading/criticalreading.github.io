@@ -1,17 +1,12 @@
 ---
 layout: page
-title: Readings and Other Materials for Spring 2021 
+title: Spring 2021
+subtitle: Readings and Other Materials
 ---
 
 ### Readings 
 
-**January**: Hannah Arendt’s Thinking without a Banister, Introduction & Ch. 1 on Marx 
+**January**: Hannah Arendt's Thinking Without a Banister, Introduction & Ch. 1: Karl Marx and the Tradition of Western Political Thought
 
-
-**February**: Hayden White\
-**March**:  Paul Ricoeur\
-**April**: Theodor Adorno\
-**May**: Susan Sontag
-
-
+![Thinking Without a Banister](assets/img/banister.jpg)
 

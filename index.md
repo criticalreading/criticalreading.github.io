@@ -14,9 +14,9 @@ While we are working on the website, here is some info about the group over Spri
 **Reading Level**: Advanced existing knowledge of Critical Theory
 
 #### Readings
-**January**: Paul Ricoeur\
+**January**: Hannah Arendt\
 **February**: Hayden White\
-**March**: Hannah Arendt\
+**March**: Paul Ricoeur\
 **April**: Theodor Adorno\
 **May**: Susan Sontag
 

@@ -4,10 +4,11 @@ title: About Us
 subtitle: A Little Story
 ---
 
-### About Elliott
+### About Elliott Kuecker
 
-Elliott Kuecker considers himself fortunate to be a member in one of the longest-running critical theory reading groups born in 1994 at the University of Florida. The Marxist Reading Group is still going and has hosted a successful annual conference for years, and has been integral to the ongoing influence of Marxism at the University of Florida English department. Elliott has many years of experience running successful reading groups, including the Critical Digital Humanities Working Group, for the past two years here at UGA.
-### About Hamed
-Hamed Yaghoobian comes from a technical background in engineering and computer science. He finds writing about himself in the third-person a little weird. I mean, I do.
+Elliott has co-coordinated reading groups as UGA-- Digital Humanities Working Group, Critical Digital Humanities Faculty Learning Circle, Education & Labor Reading Group-- and participated in many more. He has worked in libraries for over ten years, serving as a preservation assistant, digitization tech, stacks manager, college archivist, and collection management librarian. He is now an instructional librarian in the humanities. He is also a PhD candidate in Educational Theory and Practice. He has published on academic labor, interdisciplinary research methodology, and pedagogic practice. 
+
+### About Hamed Yaghoobian
+Hamed comes from a technical background in Engineering and Computer Science. He is a PhD candidate in the CS department at UGA. His research in CS focuses on studying emotionality, subjectivity and their embodiments in text. He finds writing about himself in the third-person a little weird. I mean, I do.
 
 

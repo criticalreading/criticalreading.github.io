@@ -12,6 +12,7 @@ subtitle: Readings and Other Materials
 <img src="/assets/img/banister.jpg" height="750px">
 </p>
 
+#### Secondary Resources
 
 <p align="center">  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MgzRY23qeYs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

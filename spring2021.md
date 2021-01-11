@@ -20,7 +20,7 @@ subtitle: Readings and Other Materials
 
 
 <div class="h_iframe" align="center">  
-<iframe width="auto" height="500" src="https://www.youtube.com/embed/MgzRY23qeYs" frameborder="0" allowfullscreen></iframe>
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/MgzRY23qeYs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 

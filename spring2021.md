@@ -15,12 +15,9 @@ subtitle: Readings and Other Materials
 
 #### Secondary Resources
 
-
-[![Hannah Arendt on Modernity (1964)](http://img.youtube.com/vi/MgzRY23qeYs/0.jpg)](http://www.youtube.com/watch?v=MgzRY23qeYs "Hannah Arendt on Modernity (1964)")
-
-
 <div class="h_iframe" align="center">  
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/MgzRY23qeYs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
+[The five best books on Hannah Arendt](https://fivebooks.com/best-books/hannah-arendt-samantha-rose-hill/) recommended by Samantha Rose Hill of the Hannah Arendt Center at Bard College

@@ -10,7 +10,7 @@ While we are working on the website, here is some info about the group over Spri
 
 ### Spring 2021 Schedule
 **Meetings**: Twice monthly on Zoom\
-**Reading**: Decided collectively\
+**Readings**: Decided collectively\
 **Reading Level**: Advanced existing knowledge of Critical Theory
 
 #### Readings

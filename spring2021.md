@@ -15,9 +15,13 @@ subtitle: Readings and Other Materials
 
 #### Secondary Resources
 
+* A clip of Hannah Arendt discussing labor and consumption, and the "dethroning" of the importance of the political by the modern period, which she associates with the breakdown of tradition and the resulting rootlessness and loneliness of the masses in the modern world. This is from a 1964 interview with Günter Gaus.
+
 <div class="h_iframe" align="center">  
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/MgzRY23qeYs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
-[The five best books on Hannah Arendt](https://fivebooks.com/best-books/hannah-arendt-samantha-rose-hill/) recommended by Samantha Rose Hill of the Hannah Arendt Center at Bard College
+* [The five best books on Hannah Arendt](https://fivebooks.com/best-books/hannah-arendt-samantha-rose-hill/) recommended by [Samantha Rose Hill](https://www.samantharosehill.com/) of the Hannah Arendt Center at Bard College
+
+

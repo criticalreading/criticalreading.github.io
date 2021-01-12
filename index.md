@@ -1,6 +1,6 @@
 ---
 layout: home
-title: UGA Critical Reading Group 
+title: Critical Reading Group 
 subtitle: Deep Engagement with Foundational Theory
 ---
 

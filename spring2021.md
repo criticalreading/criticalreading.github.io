@@ -13,7 +13,7 @@ subtitle: Readings and Other Materials
 
 
 
-**January**: Hannah Arendt's Thinking Without a Banister, [**Introduction and &sect; 1**](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/EXsuVIUkqM9CoorykCz6w80BH4dpyMgPnURFtiNLL6dwxg?e=yruK1V)
+**January**: Hannah Arendt's Thinking Without a Banister, [**Intro. and &sect; 1**](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/EXsuVIUkqM9CoorykCz6w80BH4dpyMgPnURFtiNLL6dwxg?e=yruK1V)
 
 <p align="center">
 <img src="/assets/img/banister.jpg" width="400">

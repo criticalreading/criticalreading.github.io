@@ -5,9 +5,8 @@ subtitle: a little story
 ---
 
 ### Members
-![image](assets/white.jpg){: style="float: left"}
-Content of the form
-
+![image](/assets/img/logo.png){: style="float: left"}
+Sayantika Mandal is an Indian writer. She completed her MFA in Writing (Fiction) from the University of San Francisco where she was awarded the Jan Zivic Fellowship. Her writing has appeared in Indian Literature, The Citron Review, Cerebration, Feminism in India, Times of India, and others. She is currently working on her first novel, Driftwood.
 
 ### Organizers
 #### Elliott Kuecker

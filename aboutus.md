@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: A Little Story
+subtitle: a little story
 ---
 
 ### About Elliott Kuecker

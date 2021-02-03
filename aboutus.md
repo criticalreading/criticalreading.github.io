@@ -7,7 +7,7 @@ subtitle: little stories
 ### Spring 2021 Members
 <img align="left" src="/assets/img/logo.png" width="100">
   
-**Sayantika Mandal** is an Indian writer. She completed her MFA in Writing (Fiction) from the University of San Francisco where she was awarded the Jan Zivic Fellowship. Her writing has appeared in Indian Literature, The Citron Review, Cerebration, Feminism in India, Times of India, and others. She is currently working on her first novel, Driftwood.
+**Sayantika Mandal** is an Indian writer. She completed her MFA in Writing (Fiction) from the University of San Francisco where she was awarded the Jan Zivic Fellowship. Her writing has appeared in *Indian Literature*, *The Citron Review*, *Cerebration*, *Feminism in India*, *Times of India*, and others. She is currently working on her first novel, *Driftwood*.
 
 
 ### Organizers

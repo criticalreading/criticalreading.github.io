@@ -5,7 +5,7 @@ subtitle: Readings and Other Materials
 ---
 
 ### Readings 
-**February**: [Hayden White's The Content of the Form](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/EU5J15lvtHpCnPeEdEVuB4YBaEqGg1b8NZtxW0W1aAuO1g?e=B2yjlX), **&sect; 1 and 3**
+**February**: [Hayden White's The Content of the Form](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/EU5J15lvtHpCnPeEdEVuB4YBaEqGg1b8NZtxW0W1aAuO1g?e=B2yjlX), **&sect; 1 and &sect; 3**
 
 <p align="center">
 <img src="/assets/img/white.jpg" width="400">

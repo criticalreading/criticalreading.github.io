@@ -5,6 +5,13 @@ subtitle: Readings and Other Materials
 ---
 
 ### Readings 
+**March**: [Bruno Latour's We Have Never Been Modern](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/EWM89HkWuHpGlIjaMfICs9kB3tPSb_QDF1606SAWLCImGA?e=jLaElr)
+
+<p align="center">
+<img src="/assets/img/latour.jpg" width="400">
+</p>
+
+
 **February**: [Hayden White's The Content of the Form](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/EU5J15lvtHpCnPeEdEVuB4YBaEqGg1b8NZtxW0W1aAuO1g?e=B2yjlX), **&sect; 1 and &sect; 3**
 
 <p align="center">

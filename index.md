@@ -16,7 +16,7 @@ Below is some info about the group over Spring 2021.
 #### Readings
 **January**: Hannah Arendt\
 **February**: Hayden White\
-**March**: Paul Ricoeur\
+**March**: Bruno Latour\
 **April**: Theodor Adorno\
 **May**: Susan Sontag
 

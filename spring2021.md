@@ -5,7 +5,7 @@ subtitle: Readings and Other Materials
 ---
 
 ### Readings 
-**March**: [Bruno Latour's We Have Never Been Modern](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/EWM89HkWuHpGlIjaMfICs9kB3tPSb_QDF1606SAWLCImGA?e=jLaElr)
+**March**: [Bruno Latour's We Have Never Been Modern](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/EWM89HkWuHpGlIjaMfICs9kB3tPSb_QDF1606SAWLCImGA?e=jLaElr), **&sect; 1 and &sect; 2**
 
 <p align="center">
 <img src="/assets/img/latour.jpg" width="350">

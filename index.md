@@ -17,7 +17,7 @@ Below is some info about the group over Spring 2021.
 **January**: Hannah Arendt\
 **February**: Hayden White\
 **March**: Bruno Latour\
-**April**: Theodor Adorno\
+**April**: Maurice Merleau-Ponty\
 **May**: Susan Sontag
 
 

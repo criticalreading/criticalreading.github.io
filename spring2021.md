@@ -5,7 +5,7 @@ subtitle: Readings and Other Materials
 ---
 
 ### Readings
-**April**: [Maurice Merleau-Ponty's Phenomenology of Perception](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/ETB3m_qFMcNGrackk6v4GS4BB-OA05SdfrCMS3i4DVxSjA?e=Q30ptY)
+**April**: [Maurice Merleau-Ponty's Phenomenology of Perception](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/ETB3m_qFMcNGrackk6v4GS4BB-OA05SdfrCMS3i4DVxSjA?e=Q30ptY), **&sect; Preface; &sect; 2.1: Sense Experience; &sect; 2.3: The Thing and the Natural World**
 <p align="center">
 <img src="/assets/img/popponty.jpg" width="350">
 </p>

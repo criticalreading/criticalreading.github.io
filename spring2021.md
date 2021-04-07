@@ -4,7 +4,12 @@ title: Spring 2021
 subtitle: Readings and Other Materials
 ---
 
-### Readings 
+### Readings
+**April**: [Maurice Merleau-Ponty's Phenomenology of Perception](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/ETB3m_qFMcNGrackk6v4GS4BB-OA05SdfrCMS3i4DVxSjA?e=Q30ptY)
+<p align="center">
+<img src="/assets/img/popponty.jpg" width="350">
+</p>
+
 **March**: [Bruno Latour's We Have Never Been Modern](https://outlookuga-my.sharepoint.com/:b:/g/personal/hy06648_uga_edu/EWM89HkWuHpGlIjaMfICs9kB3tPSb_QDF1606SAWLCImGA?e=jLaElr), **&sect; 1 and &sect; 2**
 
 <p align="center">

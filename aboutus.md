@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: little stories
+subtitle: Little Stories
 ---
 
 
